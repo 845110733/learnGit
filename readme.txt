@@ -12,7 +12,7 @@ test git merge --no-ff
 
 stash的应用场景：
 
-我个人觉得场景是这样的。设A为游戏软件 
+（网友）我个人觉得场景是这样的。设A为游戏软件 
 1、master 上面发布的是A的1.0版本 
 2、dev 上开发的是A的2.0版本 
 3、这时，用户反映 1.0版本存在漏洞，有人利用这个漏洞开外挂 
@@ -23,3 +23,5 @@ stash的应用场景：
 8、修复后，在master上合并issue101 
 9、切回dev，恢复原本工作，继续工作
 
+Now, the bug has been fixed. 
+And I have to go back to the dev-branch to work.
