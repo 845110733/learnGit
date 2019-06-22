@@ -9,7 +9,6 @@ Creating a new branch is quick and simple.
 
 test git merge --no-ff
 
-
 stash的应用场景：
 
 （网友）我个人觉得场景是这样的。设A为游戏软件 
