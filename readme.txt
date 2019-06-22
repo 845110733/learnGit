@@ -9,7 +9,6 @@ Creating a new branch is quick and simple.
 
 test git merge --no-ff
 
-
 stash的应用场景：
 
 我个人觉得场景是这样的。设A为游戏软件 
@@ -21,5 +20,4 @@ stash的应用场景：
 6、在master建立分支issue101并切换. 
 7、在issue101上修复漏洞。 
 8、修复后，在master上合并issue101 
-9、切回dev，恢复原本工作，继续工作
-
+9、切回dev
