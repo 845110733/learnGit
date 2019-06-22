@@ -6,3 +6,5 @@ Git tracks changes of flies.
 This file has changed.
 
 Creating a new branch is quick and simple.
+
+test git merge --no-ff
