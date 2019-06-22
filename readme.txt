@@ -5,4 +5,4 @@ Git tracks changes of flies.
 
 This file has changed.
 
-Creating a ew branch is quick.
+Creating a new branch is quick.
